@@ -73,7 +73,7 @@ The following transformation methods were applied, to standardize the values at 
 
 <img width="915" alt="Screen Shot 2021-11-14 at 12 16 04 PM" src="https://user-images.githubusercontent.com/93472219/141674943-00a409ab-29fa-4aba-ae9b-1fb00215c32e.png">
 
-* [Predicts the Booking.com Prices in KSA 🇸🇦](https://share.streamlit.io/a-safarji/streamlit) - feel free to contact me!
+* [Predicts the Booking.com Prices in KSA 🇸🇦](https://regressionbooking.herokuapp.com) - feel free to contact me!
 
 # Tools
 Language: Python:
